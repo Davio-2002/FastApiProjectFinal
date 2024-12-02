@@ -1,5 +1,4 @@
 from fastapi import FastAPI
-from app.models import User
 
 app = FastAPI()
 
